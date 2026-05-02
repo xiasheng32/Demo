@@ -18,7 +18,7 @@
         "@notionhq/notion-mcp-server"
       ],
       "environment": {
-        "NOTION_TOKEN": "ntn_m6361097294CBdrEM7QcVScyceITEDoI2CDFyZXaCTycJd"
+        "NOTION_TOKEN": "xxx"
       },
       "enabled": true
     },
@@ -30,7 +30,7 @@
         "tavily-mcp@latest"
       ],
       "environment": {
-        "TAVILY_API_KEY": "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"
+        "TAVILY_API_KEY": "xxx"
       },
       "enabled": true
     },
@@ -42,7 +42,7 @@
         "@modelcontextprotocol/server-github"
       ],
       "environment": {
-        "GITHUB_TOKEN": "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"
+        "GITHUB_TOKEN": "xxx"
       },
       "enabled": true
     },
